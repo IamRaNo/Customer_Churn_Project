@@ -2,15 +2,15 @@
 
 ## 🚀 Overview
 
-This project focuses on an in-depth **Exploratory Data Analysis (EDA)** of a customer churn dataset to uncover patterns that lead to customer attrition. Customer churn is a key concern for subscription-based services, and understanding what drives users to leave helps improve retention strategies.
+This project focuses on an in-depth **Exploratory Data Analysis (EDA)** of a customer churn dataset to uncover patterns that lead to customer attrition and to make a ** Machine Learning Model**. Customer churn is a key concern for subscription-based services, and understanding what drives users to leave helps improve retention strategies.
 
-Through this notebook, we explore and analyze structured customer data, clean it, visualize trends, examine statistical patterns, and draw business-focused conclusions.
+Through this notebook, I explored and analyzed structured customer data, clean it, visualize trends, examine statistical patterns, and draw business-focused conclusions.
 
 ---
 
 ## 🎯 Problem Statement
 
-Churn refers to when customers stop using a company's service. Reducing churn is more cost-effective than acquiring new customers. The goal of this project is to analyze a rich customer dataset and uncover hidden signals that may be influencing churn behavior.
+Churn refers to when customers stop using a company's service. Reducing churn is more cost-effective than acquiring new customers. The goal of this project is to analyze a rich customer dataset and uncover hidden signals that may be influencing churn behavior and also to make a model to predict churn for future scenarios
 
 ---
 
@@ -43,6 +43,7 @@ The dataset includes records for numerous customers, with attributes such as:
   - `numpy` – Numerical operations
   - `matplotlib` & `seaborn` – Visualization
   - `scipy.stats` – Statistical testing
+  - `sklearn` - For machine learning
 
 ---
 
@@ -131,14 +132,3 @@ All visuals (KDE plots, boxplots, bar charts) are present in the notebook, showi
 - Total spend
 
 ---
-
-
-## 🧪 Setup Instructions
-
-To run this project locally:
-
-1. Clone the repo or download the notebook.
-2. Install dependencies:
-
-```bash
-pip install pandas numpy seaborn matplotlib scipy
