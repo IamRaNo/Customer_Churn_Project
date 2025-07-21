@@ -2,7 +2,7 @@
 
 ## 🚀 Overview
 
-This project focuses on an in-depth **Exploratory Data Analysis (EDA)** of a customer churn dataset to uncover patterns that lead to customer attrition and to make a ** Machine Learning Model**. Customer churn is a key concern for subscription-based services, and understanding what drives users to leave helps improve retention strategies.
+This project focuses on an in-depth **Exploratory Data Analysis (EDA)** of a customer churn dataset to uncover patterns that lead to customer attrition and to make a **Machine Learning Model**. Customer churn is a key concern for subscription-based services, and understanding what drives users to leave helps improve retention strategies.
 
 Through this notebook, I explored and analyzed structured customer data, clean it, visualize trends, examine statistical patterns, and draw business-focused conclusions.
 
